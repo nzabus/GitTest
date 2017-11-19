@@ -1,0 +1,1 @@
+this is a text file written from git bash console using touch and echo 
